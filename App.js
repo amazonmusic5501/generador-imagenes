@@ -1,5 +1,5 @@
 const API_URL = "https://api-inference.huggingface.co/models/ZB-Tech/Text-to-Image";
-const API_KEY = "TU_API_KEY_AQUI"; // la pondrás en el siguiente paso
+const API_KEY = "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"; // la pondrás en el siguiente paso
 
 const promptInput = document.getElementById("prompt");
 const generateBtn = document.getElementById("generateBtn");
